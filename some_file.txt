@@ -1,2 +1,3 @@
 Some first line
 Changes in first branch
+Next changes in branch
